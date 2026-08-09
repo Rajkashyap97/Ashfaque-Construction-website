@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.asfaqueconstruction.in/sitemap.xml
+Sitemap: https://ashfaque-construction-website.vercel.app/sitemap.xml
